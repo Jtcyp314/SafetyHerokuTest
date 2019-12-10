@@ -5,7 +5,7 @@
   "main": "testSocket.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "insert.js"
+    "start": "node insert.js"
   },
   "keywords": [
     "example",
